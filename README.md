@@ -51,8 +51,8 @@ train_dualstream.py : train dual-stream networks (FCN based, four versions or en
 ```
 2. Testing:
 ```shell
-infer.py	    : infer for individual and joint networks
-infer_dualstream.py : infer on dualstream networks for CT and MR data
+infer.py	    : infer individual and joint networks
+infer_dualstream.py : infer dualstream networks on CT and MR data
 ```
 
  
