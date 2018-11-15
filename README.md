@@ -44,12 +44,15 @@ pip install -e .
 ### Start playing
 
 1. Training: 
+```shell
 train_individual.py : train a single network on either CT or MR data only 
 train_joint.py      : train a single network on both CT and MR data
 train_dualstream.py : train dual-stream networks (FCN based, four versions or encoder-decoder streams) on both CT and MR data
-
+```
 2. Testing:
+```shell
 infer.py	    : infer for individual and joint networks
 infer_dualstream.py : infer on dualstream networks for CT and MR data
+```
 
  
