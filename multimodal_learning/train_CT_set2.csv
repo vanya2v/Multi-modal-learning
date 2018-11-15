@@ -1,0 +1,16 @@
+image_path,segmentation_path
+/vol/biomedic2/vvv214/Oct_2017/CT_crop/01/vol.nii.gz,/vol/biomedic2/vvv214/Oct_2017/CT_crop/01/label.nii.gz
+/vol/biomedic2/vvv214/Oct_2017/CT_crop/03/vol.nii.gz,/vol/biomedic2/vvv214/Oct_2017/CT_crop/03/label.nii.gz
+/vol/biomedic2/vvv214/Oct_2017/CT_crop/05/vol.nii.gz,/vol/biomedic2/vvv214/Oct_2017/CT_crop/05/label.nii.gz
+/vol/biomedic2/vvv214/Oct_2017/CT_crop/07/vol.nii.gz,/vol/biomedic2/vvv214/Oct_2017/CT_crop/07/label.nii.gz
+/vol/biomedic2/vvv214/Oct_2017/CT_crop/09/vol.nii.gz,/vol/biomedic2/vvv214/Oct_2017/CT_crop/09/label.nii.gz
+/vol/biomedic2/vvv214/Oct_2017/CT_crop/21/vol.nii.gz,/vol/biomedic2/vvv214/Oct_2017/CT_crop/21/label.nii.gz
+/vol/biomedic2/vvv214/Oct_2017/CT_crop/23/vol.nii.gz,/vol/biomedic2/vvv214/Oct_2017/CT_crop/23/label.nii.gz
+/vol/biomedic2/vvv214/Oct_2017/CT_crop/25/vol.nii.gz,/vol/biomedic2/vvv214/Oct_2017/CT_crop/25/label.nii.gz
+/vol/biomedic2/vvv214/Oct_2017/CT_crop/27/vol.nii.gz,/vol/biomedic2/vvv214/Oct_2017/CT_crop/27/label.nii.gz
+/vol/biomedic2/vvv214/Oct_2017/CT_crop/29/vol.nii.gz,/vol/biomedic2/vvv214/Oct_2017/CT_crop/29/label.nii.gz
+/vol/biomedic2/vvv214/Oct_2017/CT_crop/31/vol.nii.gz,/vol/biomedic2/vvv214/Oct_2017/CT_crop/31/label.nii.gz
+/vol/biomedic2/vvv214/Oct_2017/CT_crop/33/vol.nii.gz,/vol/biomedic2/vvv214/Oct_2017/CT_crop/33/label.nii.gz
+/vol/biomedic2/vvv214/Oct_2017/CT_crop/35/vol.nii.gz,/vol/biomedic2/vvv214/Oct_2017/CT_crop/35/label.nii.gz
+/vol/biomedic2/vvv214/Oct_2017/CT_crop/37/vol.nii.gz,/vol/biomedic2/vvv214/Oct_2017/CT_crop/37/label.nii.gz
+/vol/biomedic2/vvv214/Oct_2017/CT_crop/39/vol.nii.gz,/vol/biomedic2/vvv214/Oct_2017/CT_crop/39/label.nii.gz
