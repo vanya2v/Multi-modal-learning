@@ -3,6 +3,8 @@ Multi-modal learning is needed as in clinical practice, different imaging modali
 
 
 If you use this multi-modal learning repository in your work please refer to this citation:
+
+
 Vanya V. Valindria, Nick Pawlowski, Martin Rajchl, Ioannis Lavdas, Eric O. Aboagye, Andrea G. Rockall, Daniel Rueckert, Ben Glocker. Multi-Modal Learning from Unpaired Images: Application to Multi-Organ Segmentation in CT and MRI. IEEE Winter Conference on  Applications of Computer Vision (WACV),  2018, pp. 547-556. 
 
 
